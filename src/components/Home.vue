@@ -8,7 +8,7 @@
         data(){
             return{
                 cards:[
-                    {titulo:"Work",tempoOne:"32",tempoTwo:"36",corFundo:"bg-Light-red-(work)",imagemFundo:"bg-[url('src/assets/images/icon-work.svg')]"},
+                    {titulo:"Work",tempoOne:"32",tempoTwo:"36",corFundo:"bg-Light-red-(work)",imagemFundo:"bg-[url('public/icon-work.svg')]"},
                     {titulo:"Play",tempoOne:"10",tempoTwo:"8",corFundo:'bg-Soft-blue-(play)',imagemFundo:"bg-[url('src/assets/images/icon-play.svg')]"},
                     {titulo:"Study",tempoOne:"4",tempoTwo:"7",corFundo:'bg-Light-red-(study)',imagemFundo:"bg-[url('src/assets/images/icon-study.svg')]"},
                     {titulo:"Exercise",tempoOne:"4",tempoTwo:"5",corFundo:'bg-Lime-green-(exercise)',imagemFundo:"bg-[url('src/assets/images/icon-exercise.svg')]"},
