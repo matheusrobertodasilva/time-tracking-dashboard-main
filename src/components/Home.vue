@@ -9,11 +9,11 @@
             return{
                 cards:[
                     {titulo:"Work",tempoOne:"32",tempoTwo:"36",corFundo:"bg-Light-red-(work)",imagemFundo:"bg-[url('/src/assets/images/icon-work.svg')]"},
-                    {titulo:"Play",tempoOne:"10",tempoTwo:"8",corFundo:'bg-Soft-blue-(play)',imagemFundo:"bg-[url('src/assets/images/icon-play.svg')]"},
-                    {titulo:"Study",tempoOne:"4",tempoTwo:"7",corFundo:'bg-Light-red-(study)',imagemFundo:"bg-[url('src/assets/images/icon-study.svg')]"},
-                    {titulo:"Exercise",tempoOne:"4",tempoTwo:"5",corFundo:'bg-Lime-green-(exercise)',imagemFundo:"bg-[url('src/assets/images/icon-exercise.svg')]"},
-                    {titulo:"Social",tempoOne:"5",tempoTwo:"10",corFundo:'bg-Violet-(social)',imagemFundo:"bg-[url('src/assets/images/icon-social.svg')]"},
-                    {titulo:"Self Care",tempoOne:"2",tempoTwo:"2",corFundo:'bg-Soft-orange-(self-care)',imagemFundo:"bg-[url('src/assets/images/icon-self-care.svg')]"}
+                    {titulo:"Play",tempoOne:"10",tempoTwo:"8",corFundo:'bg-Soft-blue-(play)',imagemFundo:"bg-[url('/src/assets/images/icon-play.svg')]"},
+                    {titulo:"Study",tempoOne:"4",tempoTwo:"7",corFundo:'bg-Light-red-(study)',imagemFundo:"bg-[url('/src/assets/images/icon-study.svg')]"},
+                    {titulo:"Exercise",tempoOne:"4",tempoTwo:"5",corFundo:'bg-Lime-green-(exercise)',imagemFundo:"bg-[url('/src/assets/images/icon-exercise.svg')]"},
+                    {titulo:"Social",tempoOne:"5",tempoTwo:"10",corFundo:'bg-Violet-(social)',imagemFundo:"bg-[url('/src/assets/images/icon-social.svg')]"},
+                    {titulo:"Self Care",tempoOne:"2",tempoTwo:"2",corFundo:'bg-Soft-orange-(self-care)',imagemFundo:"bg-[url('/src/assets/images/icon-self-care.svg')]"}
                 ]
             }
         }
